@@ -65,7 +65,7 @@ header .container {
   display: flex;
   align-items: center;
   height: 656px;
-  background-image: url("/bg.png");
+  background-image: url("bg.png");
   background-size: 100%;
 }
 .main_banner .container {
